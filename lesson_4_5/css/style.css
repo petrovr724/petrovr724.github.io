@@ -1,0 +1,39 @@
+body {
+  margin: 0;
+  padding: 0;
+  background-color: #c4efd3;
+}
+h1, h2 {
+  text-align: center;
+
+}
+p {
+  text-align:justify-all;
+}
+.text {
+  text-align: center;
+}
+a {
+  color: #000000;
+}
+.decoration {
+  border: 3px solid #5882FA;
+}
+.style {
+  font-weight: bold;
+}
+.style_2 {
+  font-style: italic;
+}
+.style_3 {
+ text-decoration: line-through;
+}
+#block-1 {
+   border: 3px solid #5882FA;
+}
+#block-2 {
+   border: 3px solid #5882FA;
+}
+#block-3 {
+   border: 3px solid #5882FA;
+}
