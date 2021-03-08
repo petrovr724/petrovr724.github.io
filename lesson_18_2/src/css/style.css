@@ -1,0 +1,35 @@
+body {
+	background: url(../img/fon.jpg) center;
+}
+
+.header {
+	margin-top: 50px;
+	text-align: center;
+}
+
+.header h2 {
+ color: #0bbaf0;
+}
+
+.header p {
+	font-size: 24px;
+	color: #0bbaf0;
+}
+
+.content {
+	margin-top: 30px;
+}
+
+.content button {
+	font-size: 20px;
+	color: white;
+}
+
+.accordion {
+	margin-top: 3px;
+}
+
+.card-header {
+	background-color: #0bbaf0;
+}
+
