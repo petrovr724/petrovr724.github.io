@@ -1,0 +1,12 @@
+body {
+	text-align: center;
+	background-color: #4eafd9;
+}
+
+.btn-warning {
+	margin-top: 5rem;
+	width: 25rem;
+	height: 5rem;
+	font-size: 1.4rem;
+}
+
