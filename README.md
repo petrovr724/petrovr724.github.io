@@ -23,3 +23,9 @@
 [Урок 16](petrovr724.github.io/lesson_16/)- слайдер
 
 [Урок 17](petrovr724.github.io/lesson_17/)- всплывающее окно
+
+[Урок 18.1](petrovr724.github.io/lesson_18_1/src/)- табы (Форма для регистрации)
+
+[Урок 18.2](petrovr724.github.io/lesson_18_2/src/)- аккордеон
+
+[Урок 19](petrovr724.github.io/Lesson_19/src/)- анимация
