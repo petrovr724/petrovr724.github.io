@@ -1,0 +1,12 @@
+.section {
+	min-height: 100vh;
+	display: table;
+	width: 100%;
+}
+
+.wrap-block {
+	display: table-cell;
+	vertical-align: middle;
+	text-align: center;
+	color: #fff;
+}
