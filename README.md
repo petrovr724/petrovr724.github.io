@@ -30,7 +30,7 @@
 
 [Урок 19](petrovr724.github.io/Lesson_19/src/)- анимация
 
-[Урок 20](https://petrovr724.github.io/lesson_20/)- видеофон
+[Урок 20](petrovr724.github.io/lesson_20/)- видеофон
 
 
 
