@@ -32,5 +32,7 @@
 
 [Урок 20](petrovr724.github.io/lesson_20/)- видеофон
 
+[Урок 21](petrovr724.github.io/lesson_21/)- Parallax эффект для сайта
+
 
 
